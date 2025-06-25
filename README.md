@@ -9,6 +9,9 @@ I’ve also spent about **six months working with Django**, giving me a solid gr
 Currently, I’m **pursuing a B.Sc. in Computer Science & Engineering at the University of Asia Pacific**, where I deepen my theoretical foundation while building real-world projects.  
 I enjoy transforming complex ideas into intuitive user experiences and sharing what I learn through articles and open source.
 
+### 🏗️ Currently Working On  
+I'm currently building **Profast**, a modern delivery service web application aimed at fast and efficient logistics management. This project leverages the **MERN stack** and includes features like order tracking, admin dashboards, and user authentication.
+
 ---
 
 ## ⚙️ Tech Stack
@@ -53,8 +56,3 @@ I’m always open to collaborating on exciting projects or just chatting about t
 ---
 
 Let’s build something amazing together! 🚀
-
-<!---
-Al-AminWeb/Al-AminWeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
