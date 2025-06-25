@@ -1,3 +1,5 @@
+<img alt='banner img' src='banner.png'/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Learning+Web+Development;Always+Learning+New+things)](https://git.io/typing-svg)
 ---
 
